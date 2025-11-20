@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Secrets
+.env
+
+# Compiled Code / Build Files
+/backend/dist
+/mobile/android/
+/mobile/ios/
+/mobile/.expo/
+
+# Logs and Cache
+npm-debug.log*
+yarn-debug.log*
